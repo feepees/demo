@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82BFB3A5-382D-4172-B6DA-487F9B1DDF83</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HZDuban</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>757BE772-5779-4F7D-9AEC-978FFFC4E93A</key>
+		<string>http://172.16.1.8:81/svn/MobileGIS/trunk/iOS/HZDuban201307</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HZDuban.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>757BE772-5779-4F7D-9AEC-978FFFC4E93A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>757BE772-5779-4F7D-9AEC-978FFFC4E93A</key>
+		<string>http://172.16.1.8:81/svn/MobileGIS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://172.16.1.8:81/svn/MobileGIS/trunk/iOS/%E6%83%A0%E5%B7%9E%E9%A2%86%E5%AF%BC%E5%86%B3%E7%AD%96201307/HZDuban201307/HZDuban.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>757BE772-5779-4F7D-9AEC-978FFFC4E93A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>757BE772-5779-4F7D-9AEC-978FFFC4E93A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HZDuban201307</string>
+		</dict>
+	</array>
+</dict>
+</plist>

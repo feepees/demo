@@ -1,0 +1,22 @@
+﻿{
+    "tuGui":{
+        "menuBtnName":"土规",
+        "mapLayerName":"土地利用规划",
+        "mapLayerUrl":"http://gis.huiyang.gov.cn:8399/arcgis/rest/services/HYZT/WMS_HYTDLYXZDB/MapServer"
+    },
+    "luWang":{
+        "menuBtnName":"路网",
+        "mapLayerName":"规划路网",
+        "mapLayerUrl":"http://gis.huiyang.gov.cn:8399/arcgis/rest/services/HYZT/HYGHLW/MapServer"
+    },
+    "chengGui":{
+        "menuBtnName":"城规",
+        "mapLayerName":"土地利用现状",
+        "mapLayerUrl":"http://gis.huiyang.gov.cn:8399/arcgis/rest/services/HYZT/WMS_HYTDLYZTGHDB/MapServer"
+    },
+    "faZheng":{
+        "menuBtnName":"发证",
+        "mapLayerName":"地籍发证界限",
+        "mapLayerUrl":"http://gis.huiyang.gov.cn:8399/arcgis/rest/services/HYZT/WMS_HYDJDB/MapServer"
+    }
+}

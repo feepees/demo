@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorkPlan>
+    <WorkPlanJSONArray>
+        <WorkPlanObject>
+            <END_TIME>Empty</END_TIME>
+            <ID>1420</ID>
+            <LOCATION>惠州市</LOCATION>
+            <START_TIME>2012-03-05</START_TIME>
+            <THEME>关于惠州地理空间框架培训的会议</THEME>
+            <TYPE>3</TYPE>
+        </WorkPlanObject>
+        <WorkPlanObject>
+            <END_TIME>2012-07-10</END_TIME>
+            <ID>1764</ID>
+            <LOCATION>ss</LOCATION>
+            <START_TIME>2012-07-10</START_TIME>
+            <THEME>ss</THEME>
+            <TYPE>3</TYPE>
+        </WorkPlanObject>
+        <WorkPlanObject>
+            <END_TIME>2012-06-27</END_TIME>
+            <ID>1664</ID>
+            <LOCATION>北京</LOCATION>
+            <START_TIME>2012-07-01</START_TIME>
+            <THEME>Test_M</THEME>
+            <TYPE>3</TYPE>
+        </WorkPlanObject>
+        <WorkPlanObject>
+            <END_TIME>2012-08-02</END_TIME>
+            <ID>1807</ID>
+            <LOCATION>sunz</LOCATION>
+            <START_TIME>2012-08-03</START_TIME>
+            <THEME>myref</THEME>
+            <TYPE>3</TYPE>
+        </WorkPlanObject>
+        <WorkPlanObject>
+            <END_TIME>Empty</END_TIME>
+            <ID>1809</ID>
+            <LOCATION>gs</LOCATION>
+            <START_TIME>2012-08-03</START_TIME>
+            <THEME>sss</THEME>
+            <TYPE>3</TYPE>
+        </WorkPlanObject>
+    </WorkPlanJSONArray>
+</WorkPlan>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+    <ScheduleInfoList>
+        <ScheduleInfo>
+            <ID>1001</ID>
+            <Name>土地再利用会议1</Name>
+            <Type>会议</Type>
+            <Address>惠州</Address>
+            <Date>2013-01-20</Date>
+            <Detail>
+                <Topic>廉政风险点</Topic>
+                <DetailAddress>主任办公室</DetailAddress>
+                <StartTime>2013-05-10 09:00</StartTime>
+                <EndTime>2013-05-10 10:30</EndTime>
+                <TipTime>2013-05-10 08:30</TipTime>
+                <IsFullDay>0</IsFullDay>
+                <TaskMemo>把服务大厅的廉政风险点的内容发电子版给主任</TaskMemo>
+            </Detail>
+        </ScheduleInfo>
+        <ScheduleInfo>
+            <ID>1002</ID>
+            <Name>土地再利用会议2</Name>
+            <Type>会议</Type>
+            <Address>惠州国土局</Address>
+            <Date>2013-01-21</Date>
+            <Detail>
+                <Topic>廉政风险点</Topic>
+                <DetailAddress>主任办公室</DetailAddress>
+                <StartTime>2013-05-10 09:00</StartTime>
+                <EndTime>2013-05-10 10:30</EndTime>
+                <TipTime>2013-05-10 08:30</TipTime>
+                <IsFullDay>0</IsFullDay>
+                <TaskMemo>把服务大厅的廉政风险点的内容发电子版给主任</TaskMemo>
+            </Detail>
+        </ScheduleInfo>
+        <ScheduleInfo>
+            <ID>1003</ID>
+            <Name>土地再利用会议3</Name>
+            <Type>会议</Type>
+            <Address>惠州国土局</Address>
+            <Date>2013-01-22</Date>
+            <Detail>
+                <Topic>廉政风险点</Topic>
+                <DetailAddress>主任办公室</DetailAddress>
+                <StartTime>2013-05-10 09:00</StartTime>
+                <EndTime>2013-05-10 10:30</EndTime>
+                <TipTime>2013-05-10 08:30</TipTime>
+                <IsFullDay>0</IsFullDay>
+                <TaskMemo>把服务大厅的廉政风险点的内容发电子版给主任</TaskMemo>
+            </Detail>
+        </ScheduleInfo>
+    </ScheduleInfoList>
+</XML>
